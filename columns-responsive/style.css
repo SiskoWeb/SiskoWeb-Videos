@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.content {
+    height: 100vh;
+    background-color: #212123;
+    columns: 250px auto;
+    padding: 50px;
+}
+
+.content p {
+    color: white;
+    padding: 20px;
+
+    background-color: #0e5abd;
+    border-radius: 10px;
+}
